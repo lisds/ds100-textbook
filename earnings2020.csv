@@ -1,3 +1,12 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:98f393c1179870172aa677b21fed561cfa69ba70fbb9a62bc54e441c7dd12750
-size 155
+educ,gender,income
+1,"Men",674
+1,"Women",525
+2,"Men",881
+2,"Women",671
+3,"Men",1027
+3,"Women",779
+4,"Men",1505
+4,"Women",1135
+5,"Men",1890
+5,"Women",1426
+

@@ -1,3 +1,4 @@
-version https://git-lfs.github.com/spec/v1
-oid sha256:daaec95c5dbcf54e83f7a53664534d84258552f5d23fc19b7b83592bee1f2ab1
-size 215
+Dataset for the paper: Where is the Land of Opportunity? The Geography of Intergenerational Mobility in the United States
+
+Downloaded on Apr 12, 2022 from https://opportunityinsights.org/paper/land-of-opportunity/
+
